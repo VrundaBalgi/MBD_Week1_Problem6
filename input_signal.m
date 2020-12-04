@@ -18,4 +18,3 @@ sig2 = K*sin(nFreq*t*h2r);
 
 %Sine wave added with noise
 noise = sig1 + sig2;
-
