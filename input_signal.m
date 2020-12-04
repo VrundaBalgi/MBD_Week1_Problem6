@@ -1,7 +1,7 @@
 %Creating and input signal with added noise to feed to the FIR filter
 
 h2r = 2*pi;
-tStop = 1;
+tStop = 10;
 Fs = 48000;
 dt = 1/Fs;
 
